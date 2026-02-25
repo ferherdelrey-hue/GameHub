@@ -1,0 +1,5 @@
+{
+  "name": "GameHub",
+  "description": "Una plataforma minimalista para descubrir y jugar juegos web mediante iframes.",
+  "requestFramePermissions": []
+}
